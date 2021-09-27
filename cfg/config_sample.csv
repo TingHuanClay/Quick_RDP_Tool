@@ -1,0 +1,6 @@
+Name,Host
+<Memorable Name>,<Real IP or Host>
+e.g.
+Dev_Server,10.10.90.126
+Test_Server,10.10.90.127
+Prod_Server,10.10.90.128
